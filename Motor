@@ -36,7 +36,7 @@ will occur due to bare metal touching of the connections
   -Fix the motor in the vehicle desired and then put on the propeller and make sure the propeller nuts are well tight. Always read the manual
 or ask if you don't know how to do something, specially when it can cause losses.
   -After installing the motors and propeller, Connect the esc to the radio and check for the spinning direction on 5 to 10% thrust, if you
-can't make the direction, simple add a piece of tape to a side of the motor outrunner and check how it rotates.
+can't make the direction, simple add a piece of tape to a side of the motor outrunner and check how it rotates. 
 
 
                         +-------------------------------------------------------------------------------+
