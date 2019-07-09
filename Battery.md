@@ -1,0 +1,54 @@
+# Overview
+
+
+- Batteries usually last for 10 to 20 minutes. 
+- By the end of a flight, you will have to recharge your battery to prepare your quadcopter for another flight.
+- For longer Endurance, you may use a power supply with a T- Connector.
+---------------------------------------------------------------------------------------------------------------------------------------
+- Almost all multicopters operate using LiPo batteries.
+Choosing a battery:
+A battery can be described by the following factors:
+- Voltage
+- Milliampere hours (mAh)
+- Number of cells (s value)
+---------------------------------------------------------------------------------------------------------------------------------------
+  - Batteries are rated with 3 values:
+
+- S value Determines maximum voltage output.
+  - This tells you the number of cells in the battery.
+  - 2S -> 2 cells 
+  - 3S -> 3 cells 
+  - Each cell produces approximately 3.7 volts.
+  - 2S battery produces 7.4v, 3S battery produces 11.1v, etc
+
+- mAh value Determines capacity of the battery.
+  - This measures the battery’s charge storing capacity. 
+  - In a 2700 mAh battery, you can draw 2700 milliamps for one hour, or 1 milliamp for 2700 hours.
+
+- C value Determines maximum current draw.
+  - This is the maximum safe continuous discharge rate of your battery.
+  - To find discharge rate, multiply the C rating by the capacity.
+  - e.g. maximum current discharge for a 25C, 2700 mAh battery is 25 x 2700 = 67,500 mA or 67.5 A. 
+  - Discharging higher than this will cause your battery to heat up, bloat, and possibly explode.
+  - Thus if you are using an 80A ESC, a 25C 2700 mAh battery would be insufficient.
+
+  
+ # Battery Charging
+                         
+- Watch this video to know how to charge the battery.
+https://www.youtube.com/watch?v=RPzJOKoHhhQ
+- Make sure to leave the battery on storage mode if you aren't intending to use it for a long period of time to maintain its health
+   (Read the charger manual for more clarification on storage mode)
+
+
+# Common problems 
+                        
+#### A low voltage battery may trigger a fail-safe which can be observed from the ground station.
+
+##### If the male connector of the power module doesn't match the battery you have, you may do either of the following:
+- Look for another battery which is of course better and much easier.
+- For a last resort, you may need to change the type of connector on the battery. In this case :
+  - Make sure the +ve and -ve terminals don't touch.
+  - When soldering the new terminals, add heat shrink first,
+    and double check before soldering the connnector because the connector terminals are "unique"
+    i.e. (+ve and -ve can't be interchanged)
