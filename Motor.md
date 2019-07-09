@@ -40,42 +40,41 @@ After installing the motors and propeller, Connect the esc to the radio and chec
 #### The ESC needs calibration
 
 ### The motor twitch on low throttle but spins fine after it
-#### This is known as lag and it happens normally as remotes send a 1000 μs and the motor needs a minimum of 1050 μs, it's common with 
-some new motors to prevent spinning on the lowest throttle.
+###### This is known as lag and it happens normally as remotes send a 1000 μs and the motor needs a minimum of 1050 μs, it's common with some new motors to prevent spinning on the lowest throttle.
 
 ### The motor twitch on low throttle and doesn't spin after
-#### First, check if the nails not touching the windings of the motor specially if you're not using the ones that came with the motor.
-#### Make sure that the soldered connection are good and no wire hairs are loose.
-#### Make sure nothing is jamming the outrunner part.
+###### First, check if the nails not touching the windings of the motor specially if you're not using the ones that came with the motor.
+###### Make sure that the soldered connection are good and no wire hairs are loose.
+###### Make sure nothing is jamming the outrunner part.
 
 ### The motor doesn't spin but doesn't get hot
-#### Make sure that the wires are connected well and that the ESC is working.
+###### Make sure that the wires are connected well and that the ESC is working.
 
 ### The motor doesn't spin but get hot
-#### Mostly this motor is fried, But to make sure, Hook up the motor with a well known working esc if it spins, then the connections to the old ESC is bananas, if it doesn't spin then take out the outrunner part, re align the magnets inside , re wind the coil wires and make sure that there is no blockage between the winding and the outrunner part.
-#### Check if the wire leads are well connected to the windings in the motor.
+###### Mostly this motor is fried, But to make sure, Hook up the motor with a well known working esc if it spins, then the connections to the old ESC is bananas, if it doesn't spin then take out the outrunner part, re align the magnets inside , re wind the coil wires and make sure that there is no blockage between the winding and the outrunner part.
+###### Check if the wire leads are well connected to the windings in the motor.
 
 ### The motor spins but gets hot a lot
-#### Motors usually doesn't generate large heat due to the high airflow through the propeller, but if the motor gets very hot you should check the connections and re wind the coil wires as in such case the resistance of the motors is high.
-#### Check if the wires between the ESC and the motor are hot, if yes , replace them as their resistance is high, if not check the connection then the ESC it self and then the motor.
-#### Make sure that the ESC and Battery are designed to work on the battery size you are using.
-#### Make sure that the Propeller size you are using is suitable for the motor.
+###### Motors usually doesn't generate large heat due to the high airflow through the propeller, but if the motor gets very hot you should check the connections and re wind the coil wires as in such case the resistance of the motors is high.
+###### Check if the wires between the ESC and the motor are hot, if yes , replace them as their resistance is high, if not check the connection then the ESC it self and then the motor.
+###### Make sure that the ESC and Battery are designed to work on the battery size you are using.
+###### Make sure that the Propeller size you are using is suitable for the motor.
 
 
 
 # Useful Links 
 
 
-## Disassembley of Brushless Motor and replacing Bearings Without A Press :  
+### Disassembley of Brushless Motor and replacing Bearings Without A Press :  
 https://www.youtube.com/watch?v=sta20qCthR0&t=97s  
 
-## How to Rewind a Brushless Motor for More Torque :  
+### How to Rewind a Brushless Motor for More Torque :  
 https://www.youtube.com/watch?v=b7DkOYdarkU  
 
-## Brushless Motor Disassembly and Rewinding :  
+### Brushless Motor Disassembly and Rewinding :  
 https://www.youtube.com/watch?v=AimKJTIOqkU&t=42s  
 
-## Motor Construction - LOT of info, mostly correct :  
+### Motor Construction - LOT of info, mostly correct :  
 https://www.youtube.com/watch?v=WtQYDsH3Cgk  
 
 
