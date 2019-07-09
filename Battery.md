@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=RPzJOKoHhhQ
 # Common problems 
                         
 #### A low voltage battery may trigger a fail-safe which can be observed from the ground station.
-
+---------------------
 ##### If the male connector of the power module doesn't match the battery you have, you may do either of the following:
 - Look for another battery which is of course better and much easier.
 - For a last resort, you may need to change the type of connector on the battery. In this case :
