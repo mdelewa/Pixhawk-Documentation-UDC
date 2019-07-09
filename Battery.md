@@ -8,11 +8,12 @@
 * Almost all multicopters operate using LiPo batteries.
 Choosing a battery:
 A battery can be described by the following factors:
+
     - Voltage
     - Milliampere hours (mAh)
     - Number of cells (s value)
 
-  Batteries are rated with 3 values:
+* Batteries are rated with 3 values:
 
     - S value Determines maximum voltage output.
       - This tells you the number of cells in the battery.
@@ -29,6 +30,7 @@ A battery can be described by the following factors:
       - This is the maximum safe continuous discharge rate of your battery.
       - To find discharge rate, multiply the C rating by the capacity.
       - e.g. maximum current discharge for a 25C, 2700 mAh battery is 25 x 2700 = 67,500 mA or 67.5 A. 
+      
 * Discharging higher than this will cause your battery to heat up, bloat, and possibly explode.
 * Thus if you are using an 80A ESC, a 25C 2700 mAh battery would be insufficient.
 
