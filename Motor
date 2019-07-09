@@ -23,19 +23,19 @@
                          |                                                                               |
                          +-------------------------------------------------------------------------------+
                          
--The motor usually comes with three wire terminals wich goes into the ESC, The wires indicate the Positive, Negative and Ground polarities,
+  -The motor usually comes with three wire terminals wich goes into the ESC, The wires indicate the Positive, Negative and Ground polarities,
 the middle wire should always be connected to its middle counterpart in the ESC and the side wires can be exchanged to change the spin 
 direction of the motor.
--Make sure to ply 3mm of each wire of the 3 and tin it with the solder if it's not tinned, Put some solder in the male pin and make sure
+  -Make sure to ply 3mm of each wire of the 3 and tin it with the solder if it's not tinned, Put some solder in the male pin and make sure
 that the size of the male - female connector are the same,The connector used in this wiring is called Bullet connectors which come in 
 different sizes measured from the female connector diameter in mm.
--Always make sure that the plied wire tips are immersed in the solder in the connector and remember to add the heat shrink before soldering
+  -Always make sure that the plied wire tips are immersed in the solder in the connector and remember to add the heat shrink before soldering
 and also make sure that the heat shrink cover only the uniform circular part not the whole connector.
 -Apply the heat shrink using a lighter or a heat gun and then make sure that each connection is well isolated and that no short circut
 will occur due to bare metal touching of the connections
--Fix the motor in the vehicle desired and then put on the propeller and make sure the propeller nuts are well tight. Always read the manual
+  -Fix the motor in the vehicle desired and then put on the propeller and make sure the propeller nuts are well tight. Always read the manual
 or ask if you don't know how to do something, specially when it can cause losses.
--After installing the motors and propeller, Connect the esc to the radio and check for the spinning direction on 5 to 10% thrust, if you
+  -After installing the motors and propeller, Connect the esc to the radio and check for the spinning direction on 5 to 10% thrust, if you
 can't make the direction, simple add a piece of tape to a side of the motor outrunner and check how it rotates.
 
 
