@@ -1,1 +1,14 @@
+                          +-------------------------------------------------------------------------------+
+                          |                                                                               |
+                          |                                  Over view                                    |
+                          |                                                                               |
+                          +-------------------------------------------------------------------------------+
 
+
+    -In the development of rotors, The brushless DC motors are the way to go due to their high reliability and rasy control techniques.
+  Most brushless motors are controlled via an Electronic Speed Controller, or for short ESC, to alternate the voltage inside the coils 
+  so that the rotor part spin. 
+    -Most motors are called outrunners, which means that the outer part of the motor is spinning around a fixed coil of copper wire 
+  windings inside, this type of motors allow for high Rpm, and thus higher controllability of the motor speed.
+    -The ESC sends a recives a PWM signal which varies between 1000(min) to 2000(max) micro senconds on which it determines the voltage 
+  that will alter the motor rpm and thus the speed and thrust it's providing.
