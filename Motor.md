@@ -2,36 +2,37 @@
                           
 
 
- In the development of rotors, The brushless DC motors are the way to go due to their high reliability and easy control techniques
+ * In the development of rotors, The brushless DC motors are the way to go due to their high reliability and easy control techniques
  Most brushless motors are controlled via an Electronic Speed Controller, or for short ESC, to alternate the voltage inside the coils 
  so that the rotor part spins.  
   
- Most motors used in rotors are called outrunners, which means that the outer part of the motor is spinning around a fixed coil of 
+* Most motors used in rotors are called outrunners, which means that the outer part of the motor is spinning around a fixed coil of 
  copper wire windings inside, this type of motors allow for high Rpm, and thus higher controllability of the motor speed.
   
- The ESC sends a receives a PWM signal which varies between 1000(min) to 2000(max) micro senconds on which it determines the voltage 
+ * The ESC sends a receives a PWM signal which varies between 1000(min) to 2000(max) micro senconds on which it determines the voltage 
  that will alter the motor rpm and thus the speed and thrust it's providing.  
   
-Motors are commonly rated based on the Kv,which is the number of revolutions per minute (rpm) that a motor turns when 1V (one volt is   applied with no load attached to that motor. A General rule of the thumb, Higher Kv means lower thrust and lower torque and a small
+* Motors are commonly rated based on the Kv,which is the number of revolutions per minute (rpm) that a motor turns when 1V (one volt is   applied with no load attached to that motor. A General rule of the thumb, Higher Kv means lower thrust and lower torque and a small
 propeller size, Lower Kv means Lower rpm , but higher thrust and higher rpm with a large propeller size.  
   
   
    
 # Setup
                          
-The motor usually comes with three wire terminals wich goes into the ESC, The wires indicate the Positive, Negative and Ground polarities,the middle wire should always be connected to its middle counterpart in the ESC and the side wires can be exchanged to change the spin direction of the motor.  
+* The motor usually comes with three wire terminals wich goes into the ESC, The wires indicate the Positive, Negative and Ground polarities,the middle wire should always be connected to its middle counterpart in the ESC and the side wires can be exchanged to change the spin direction of the motor.  
   
-Make sure to ply 3mm of each wire of the 3 and tin it with the solder if it's not tinned, Put some solder in the male pin and make sure that the size of the male - female connector are the same,The connector used in this wiring is called Bullet connectors which come in different sizes measured from the female connector diameter in mm.  
+* Make sure to ply 3mm of each wire of the 3 and tin it with the solder if it's not tinned, Put some solder in the male pin and make sure that the size of the male - female connector are the same,The connector used in this wiring is called Bullet connectors which come in different sizes measured from the female connector diameter in mm.  
   
-Always make sure that the plied wire tips are immersed in the solder in the connector and remember to add the heat shrink before soldering and also make sure that the heat shrink cover only the uniform circular part not the whole connector.  
+* Always make sure that the plied wire tips are immersed in the solder in the connector and remember to add the heat shrink before soldering and also make sure that the heat shrink cover only the uniform circular part not the whole connector.  
   
-Apply the heat shrink using a lighter or a heat gun and then make sure that each connection is well isolated and that no short circut
-will occur due to bare metal touching of the connections  
+* Apply the heat shrink using a lighter or a heat gun and then make sure that each connection is well isolated and that no short circut
+* will occur due to bare metal touching of the connections  
 
-Fix the motor in the vehicle desired and then put on the propeller and make sure the propeller nuts are well tight. Always read the manual or ask if you don't know how to do something, specially when it can cause losses.  
+* Fix the motor in the vehicle desired and then put on the propeller and make sure the propeller nuts are well tight. Always read the manual or ask if you don't know how to do something, specially when it can cause losses.  
+   
+* After installing the motors and propeller, Connect the esc to the radio and check for the spinning direction on 5 to 10% thrust, if you can't make the direction, simple add a piece of tape to a side of the motor outrunner and check how it rotates.  
   
-After installing the motors and propeller, Connect the esc to the radio and check for the spinning direction on 5 to 10% thrust, if you can't make the direction, simple add a piece of tape to a side of the motor outrunner and check how it rotates.  
-  
+
 
 
 # Common Problems
