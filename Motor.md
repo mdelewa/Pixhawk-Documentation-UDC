@@ -72,16 +72,16 @@ propeller size, Lower Kv means Lower rpm , but higher thrust and higher rpm with
 
 
 ### Disassembley of Brushless Motor and replacing Bearings Without A Press :  
-https://www.youtube.com/watch?v=sta20qCthR0&t=97s  
+* https://www.youtube.com/watch?v=sta20qCthR0&t=97s  
 
 ### How to Rewind a Brushless Motor for More Torque :  
-https://www.youtube.com/watch?v=b7DkOYdarkU  
+* https://www.youtube.com/watch?v=b7DkOYdarkU  
 
 ### Brushless Motor Disassembly and Rewinding :  
-https://www.youtube.com/watch?v=AimKJTIOqkU&t=42s  
+* https://www.youtube.com/watch?v=AimKJTIOqkU&t=42s  
 
 ### Motor Construction - LOT of info, mostly correct :  
-https://www.youtube.com/watch?v=WtQYDsH3Cgk  
+* https://www.youtube.com/watch?v=WtQYDsH3Cgk  
 
 
 
