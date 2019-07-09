@@ -1,16 +1,16 @@
                           +-------------------------------------------------------------------------------+
                           |                                                                               |
-                          |                                  Over view                                    |
+                          |                                  Overview                                    |
                           |                                                                               |
                           +-------------------------------------------------------------------------------+
 
 
-    -In the development of rotors, The brushless DC motors are the way to go due to their high reliability and rasy control techniques.
+    -In the development of rotors, The brushless DC motors are the way to go due to their high reliability and easy control techniques.
   Most brushless motors are controlled via an Electronic Speed Controller, or for short ESC, to alternate the voltage inside the coils 
-  so that the rotor part spin. 
+  so that the rotor part spins. 
     -Most motors used in rotors are called outrunners, which means that the outer part of the motor is spinning around a fixed coil of 
     copper wire windings inside, this type of motors allow for high Rpm, and thus higher controllability of the motor speed.
-    -The ESC sends a recives a PWM signal which varies between 1000(min) to 2000(max) micro senconds on which it determines the voltage 
+    -The ESC sends a receives a PWM signal which varies between 1000(min) to 2000(max) micro senconds on which it determines the voltage 
   that will alter the motor rpm and thus the speed and thrust it's providing.
     -Motors are commonly rated based on the Kv,which is the number of revolutions per minute (rpm) that a motor turns when 1V (one volt) 
   is applied with no load attached to that motor. A General rule of the thumb, Higher Kv means lower thrust and lower torque and a small
@@ -66,7 +66,7 @@ the old ESC is bananas, if it doesn't spin then take out the outrunner part, re 
 make sure that there is no blockage between the winding and the outrunner part.
 -Check if the wire leads are well connected to the windings in the motor.
 
-* The motor spins but gets hot alot
+* The motor spins but gets hot a lot
 - Motors usually doesn't generate large heat due to the high airflow through the propeller, but if the motor gets very hot you should
 check the connections and re wind the coil wires as in such case the resistance of the motors is high.
 - Check if the wires between the ESC and the motor are hot, if yes , replace them as their resistance is high, if not check the connection
