@@ -16,8 +16,7 @@
   is applied with no load attached to that motor. A General rule of the thumb, Higher Kv means lower thrust and lower torque and a small
   propeller size, Lower Kv means Lower rpm , but higher thrust and higher rpm with a large propeller size.
   
-  
-  
+   
                          +-------------------------------------------------------------------------------+
                          |                                                                               |
                          |                                  Setup                                        |
@@ -38,7 +37,6 @@ will occur due to bare metal touching of the connections
 or ask if you don't know how to do something, specially when it can cause losses.
 -After installing the motors and propeller, Connect the esc to the radio and check for the spinning direction on 5 to 10% thrust, if you
 can't make the direction, simple add a piece of tape to a side of the motor outrunner and check how it rotates.
-
 
 
                         +-------------------------------------------------------------------------------+
@@ -73,5 +71,7 @@ make sure that there is no blockage between the winding and the outrunner part.
 check the connections and re wind the coil wires as in such case the resistance of the motors is high.
 - Check if the wires between the ESC and the motor are hot, if yes , replace them as their resistance is high, if not check the connection
 then the ESC it self and then the motor.
+- Make sure that the ESC and Battery are designed to work on the battery size you are using.
+- Make sure that the Propeller size you are using is suitable for the motor.
 
 
