@@ -1,1 +1,77 @@
+                          +-------------------------------------------------------------------------------+
+                          |                                                                               |
+                          |                                  Over view                                    |
+                          |                                                                               |
+                          +-------------------------------------------------------------------------------+
+
+
+    -In the development of rotors, The brushless DC motors are the way to go due to their high reliability and rasy control techniques.
+  Most brushless motors are controlled via an Electronic Speed Controller, or for short ESC, to alternate the voltage inside the coils 
+  so that the rotor part spin. 
+    -Most motors used in rotors are called outrunners, which means that the outer part of the motor is spinning around a fixed coil of 
+    copper wire windings inside, this type of motors allow for high Rpm, and thus higher controllability of the motor speed.
+    -The ESC sends a recives a PWM signal which varies between 1000(min) to 2000(max) micro senconds on which it determines the voltage 
+  that will alter the motor rpm and thus the speed and thrust it's providing.
+    -Motors are commonly rated based on the Kv,which is the number of revolutions per minute (rpm) that a motor turns when 1V (one volt) 
+  is applied with no load attached to that motor. A General rule of the thumb, Higher Kv means lower thrust and lower torque and a small
+  propeller size, Lower Kv means Lower rpm , but higher thrust and higher rpm with a large propeller size.
+  
+   
+                         +-------------------------------------------------------------------------------+
+                         |                                                                               |
+                         |                                  Setup                                        |
+                         |                                                                               |
+                         +-------------------------------------------------------------------------------+
+                         
+  -The motor usually comes with three wire terminals wich goes into the ESC, The wires indicate the Positive, Negative and Ground polarities,
+the middle wire should always be connected to its middle counterpart in the ESC and the side wires can be exchanged to change the spin 
+direction of the motor.
+  -Make sure to ply 3mm of each wire of the 3 and tin it with the solder if it's not tinned, Put some solder in the male pin and make sure
+that the size of the male - female connector are the same,The connector used in this wiring is called Bullet connectors which come in 
+different sizes measured from the female connector diameter in mm.
+  -Always make sure that the plied wire tips are immersed in the solder in the connector and remember to add the heat shrink before soldering
+and also make sure that the heat shrink cover only the uniform circular part not the whole connector.
+-Apply the heat shrink using a lighter or a heat gun and then make sure that each connection is well isolated and that no short circut
+will occur due to bare metal touching of the connections
+  -Fix the motor in the vehicle desired and then put on the propeller and make sure the propeller nuts are well tight. Always read the manual
+or ask if you don't know how to do something, specially when it can cause losses.
+  -After installing the motors and propeller, Connect the esc to the radio and check for the spinning direction on 5 to 10% thrust, if you
+can't make the direction, simple add a piece of tape to a side of the motor outrunner and check how it rotates.
+
+
+                        +-------------------------------------------------------------------------------+
+                        |                                                                               |
+                        |                               Common problems                                 |
+                        |                                                                               |
+                        +-------------------------------------------------------------------------------+
+                        
+* The motor speed isn't changing by changing the throttle
+- The ESC needs calibration
+
+* The motor twitch on low throttle but spins fine after it
+- This is known as lag and it happens normally as remotes send a 1000 μs and the motor needs a minimum of 1050 μs, it's common with 
+some new motors to prevent spinning on the lowest throttle.
+
+* The motor twitch on low throttle and doesn't spin after
+- First, check if the nails not touching the windings of the motor specially if you're not using the ones that came with the motor.
+- Make sure that the soldered connection are good and no wire hairs are loose.
+- Make sure nothing is jamming the outrunner part.
+
+* The motor doesn't spin but doesn't get hot
+- Make sure that the wires are connected well and that the ESC is working.
+
+* The motor doesn't spin but get hot
+-Mostly this motor is fried, But to make sure, Hook up the motor with a well known working esc if it spins, then the connections to 
+the old ESC is bananas, if it doesn't spin then take out the outrunner part, re align the magnets inside , re wind the coil wires and 
+make sure that there is no blockage between the winding and the outrunner part.
+-Check if the wire leads are well connected to the windings in the motor.
+
+* The motor spins but gets hot alot
+- Motors usually doesn't generate large heat due to the high airflow through the propeller, but if the motor gets very hot you should
+check the connections and re wind the coil wires as in such case the resistance of the motors is high.
+- Check if the wires between the ESC and the motor are hot, if yes , replace them as their resistance is high, if not check the connection
+then the ESC it self and then the motor.
+- Make sure that the ESC and Battery are designed to work on the battery size you are using.
+- Make sure that the Propeller size you are using is suitable for the motor.
+
 
