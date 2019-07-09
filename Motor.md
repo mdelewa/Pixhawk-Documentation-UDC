@@ -37,7 +37,7 @@ After installing the motors and propeller, Connect the esc to the radio and chec
 # Common Problems
                         
 ### The motor speed isn't changing by changing the throttle
-#### The ESC needs calibration
+###### The ESC needs calibration
 
 ### The motor twitch on low throttle but spins fine after it
 ###### This is known as lag and it happens normally as remotes send a 1000 μs and the motor needs a minimum of 1050 μs, it's common with some new motors to prevent spinning on the lowest throttle.
