@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=RPzJOKoHhhQ
 * ##### If the male connector of the power module doesn't match the battery you have, you may do either of the following:
 - Look for another battery which is of course better and much easier.
 - For a last resort, you may need to change the type of connector on the battery. In this case :
-  - Make sure the +ve and -ve terminals don't touch.
-  - When soldering the new terminals, add heat shrink first,
+  1.  Make sure the +ve and -ve terminals don't touch.
+  2.  When soldering the new terminals, add heat shrink first,
     and double check before soldering the connnector because the connector terminals are "unique"
     i.e. (+ve and -ve can't be interchanged)
