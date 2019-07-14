@@ -22,8 +22,7 @@
    4. Always check that everything is well soldered and strong.
 
    
-   
-   # Common Problems
+  # Common Problems
    
    * Most problems arise from a bad weld most of the times or if the PDB break, in such cases the wire traces in the PDB layers might break or even cause a short circuit. It’s advisable to check every spot using the avo meter before connecting the esc such that each spot should provide the designated battery voltage.
 
