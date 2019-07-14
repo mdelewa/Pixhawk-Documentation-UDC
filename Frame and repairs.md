@@ -3,7 +3,7 @@
 - We used DJI frame F450 consists of four legs and two boards gathering the four legs.
 - At the end of each leg there are four holes for the bolts to fix the motor.
 - The fixation between legs and board is by 2x4 hexagonal screws. 
-![](FRame%20DJI%20F450%201.jpeg)
+https://rukminim1.flixcart.com/image/704/704/learning-toy/g/h/w/rotobotix-f450-frame-450mm-integrated-pcb-version-original-imaefuykxwsdcnzc.jpeg?q=70
 
 After our assembly with motors and props
 ![](file:///C:\Users\Michael\Downloads\WhatsApp%20Image%202019-07-14%20at%209.24.56%20PM.jpeg)
