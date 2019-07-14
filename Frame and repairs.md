@@ -3,18 +3,22 @@
 - We used DJI frame F450 consists of four legs and two boards gathering the four legs.
 - At the end of each leg there are four holes for the bolts to fix the motor.
 - The fixation between legs and board is by 2x4 hexagonal screws. 
-https://drive.google.com/open?id=1dKkdnd66Fai8iYA51GR1C3EQvKQU5ZlN
+
+![FRame DJI F450 1](https://user-images.githubusercontent.com/52162099/61189447-091d6900-a68e-11e9-96ab-d28bb8e50a68.jpeg)
 
 After our assembly with motors and props
-![](file:///C:\Users\Michael\Downloads\WhatsApp%20Image%202019-07-14%20at%209.24.56%20PM.jpeg)
+![WhatsApp Image 2019-07-14 at 9 24 56 PM](https://user-images.githubusercontent.com/52162099/61189522-d889ff00-a68e-11e9-8553-ac33e30bd9f7.jpeg)
+
+
 ## Accidents
-![](Frame%20and%20repairs/20190214_143813.jpg)
-![](Frame%20and%20repairs/20190214_143911.jpg)
+![20190214_143813](https://user-images.githubusercontent.com/52162099/61189478-56013f80-a68e-11e9-8bc9-cdd5ed0a1ad0.jpg)
+![20190214_143911](https://user-images.githubusercontent.com/52162099/61189489-703b1d80-a68e-11e9-9afb-712620b2af96.jpg)
 
 ## Repairs 
 We used red accrelec a material that is powder and liquid and used on materials like carbon fiber and plastics
-![](Frame%20and%20repairs/20190214_131405.jpg)
-![](Frame%20and%20repairs/20190702_121739.jpg)
+![20190214_131405](https://user-images.githubusercontent.com/52162099/61189526-ea6ba200-a68e-11e9-8ebe-8b3f62193d42.jpg)
+![20190702_121739](https://user-images.githubusercontent.com/52162099/61189530-f9525480-a68e-11e9-9e3e-ceae0fed3927.jpg)
+
 
 ### Advantages than other adhesives (as epoxy):
 - Light weight 
