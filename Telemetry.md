@@ -1,4 +1,3 @@
-
 # Overview
 
 * The Telemetry is an ideal module to set the remote sensing connection module between Flight controller and ground station. It features small volume, cost effective, wider transmission range, and it allows us to do things that other data transmission modules can't do.
@@ -13,7 +12,7 @@
   1. Using a UART to USB bridge.
   2. Connecting to arduino and bridge it over the existing UART converter.
   
-Using the indicated software it can be programmed easily.
+    Using the indicated software it can be programmed easily.
 
 * Most of the parameters are explained in the links provided below.
 * The antenna can be swapped with a stronger one for more range.
