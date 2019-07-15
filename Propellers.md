@@ -19,3 +19,7 @@ A quadcopter uses two clockwise and two counterclockwise propellers.
 ## Determine prop. direction
 - See this video :
 https://www.youtube.com/watch?time_continue=87&v=8Lskifpbzbo
+
+- This is an example of a clockwise prop.
+
+![motor and prop](https://user-images.githubusercontent.com/38992224/61214785-25aab700-a709-11e9-9ef5-8cb521a75838.jpg)
