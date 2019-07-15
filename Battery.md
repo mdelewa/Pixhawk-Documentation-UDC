@@ -1,5 +1,7 @@
 # Overview
 
+![Battery](https://user-images.githubusercontent.com/38992224/61215841-3872bb00-a70c-11e9-9c86-ef8e4171aca3.PNG)
+
 
 * Batteries usually last for 10 to 20 minutes. 
 * By the end of a flight, you will have to recharge your battery to prepare your quadcopter for another flight.
