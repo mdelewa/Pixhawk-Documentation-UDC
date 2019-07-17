@@ -83,5 +83,6 @@ propeller size, Lower Kv means Lower rpm , but higher thrust and higher rpm with
 ### Motor Construction - LOT of info, mostly correct :  
 * https://www.youtube.com/watch?v=WtQYDsH3Cgk  
 
+* https://oscarliang.com/brushed-vs-brushless-motor/
 
 
