@@ -26,3 +26,9 @@
 3- start adding the configuration and complete the wizard until calibration ends.
 
 4- To calibrate the ESCs go to power setting and click on Calibrate the ESC.
+
+
+
+# DOCUMENTATION
+
+    * https://docs.qgroundcontrol.com/en/
