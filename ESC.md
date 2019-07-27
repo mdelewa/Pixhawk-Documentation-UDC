@@ -6,13 +6,15 @@
   
 
 # Using Programmable ESC
+![WhatsApp Image 2019-07-17 at 11 52 49 PM](https://user-images.githubusercontent.com/52162099/61993992-11ee4180-b075-11e9-85d6-3a2bd49b71a0.jpeg)
 
  * the ESC we used was Hacker X30 pro it comes with a USB interface that help to connect the ESC through the signal wire to the PC. The drivers of the ESC work on windows Xp only (cp10x UART interface), so we created a virtual machine and installed Win Xp. On installing you can reset the ESC firmware, upgrade it and modify all the available parameters as discussed before.
  
 # Troubleshooting
 * Trouble shooting the ESC's required a valid test equipment that consists mainly from a working motor, a propeller , a fixing stand for the motor (a frame or a firewall are sufficient) and an external power source for the avionics (recievers and whatnot).
 * Some tested troubleshooting technique that we practiced is described as follows:
-   
+   ![WhatsApp Image 2019-07-17 at 11 52 49 PM (1)](https://user-images.githubusercontent.com/52162099/61993998-2df1e300-b075-11e9-81a8-a1e2ed568ccb.jpeg)
+
    
     #### Steps
        1- Connect the ESC signal wire with the Receiver.
