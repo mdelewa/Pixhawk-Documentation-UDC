@@ -22,8 +22,12 @@
 ### While first flight attempts 
 - Use four ropes at each corner of the Quadcopter where the ropes are not in tension while taking off and hovering but when you notice much disturbance that may lead to damage or being out of control and falling pull the ropes quickly before the Quadcopter touch the ground.
 - You may use knobs to surround a certain trial area but there is a piece of advice use a rubber band to tie the Quadcopter to be hanged in the trial area and away enough from the knobs at taking off.
+![20181218_121037](https://user-images.githubusercontent.com/52162099/61994276-3f3cee80-b079-11e9-9f45-63f7c937c36f.jpg)
 
 ### While Tuning 
+- First 1-D Tuning Pitch then roll then yaw
+![20190123_130659_001](https://user-images.githubusercontent.com/52162099/61994300-a65aa300-b079-11e9-9cc0-55a2c461f2d5.jpg)
+
 - Use testing Stand it is like a universal joint gives you freedom in angles of yow, pitch and roll but you can not test the linear motion.  
 
 ### During Flight tests
